@@ -73,17 +73,16 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "google-analytics" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
-  goatcounter:
-    code		 : jayrobwilliams
+
 
 
 # Site Author
 author:
   name             : "Rob Williams"
-  avatar           : "profile.png"
+  avatar           : "Portrait_Alex_AR.png"
   bio              : "Data Scientist"
   location         :
   employer         :
