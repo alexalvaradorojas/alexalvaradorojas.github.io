@@ -8,23 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Greetings! I am a [doctoral student](https://annenberg.usc.edu/communication/communication-phd/doctoral-students/alejandro-alvarado-rojas) in Communication researching how data infrastructures can inform models for civic participation and networked organization. I am currently a research assistant for the [Annenberg Networks Network (ANN)](https://uscann.tumblr.com/) and a member of the research collective [Media As Sociotechnical Systems (MASTS)](https://www.uscmasts.org/). Recently, I became affiliated with the [Environmental Data and Governance Initiative (EDGI)](https://envirodatagov.org/) as a research collaborator on a voluntary basis. 
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+
+My research is influenced by the fields of [Critical Data Studies](https://en.wikipedia.org/wiki/Critical_data_studies), [Communication](https://en.wikipedia.org/wiki/Communication_studies#:~:text=As%20a%20field%20of%20study,%2C%20public%20administration%E2%80%94and%20beyond.) and [Science and Technology Studies (STS)](https://en.wikipedia.org/wiki/Science_and_technology_studies) with an emphasis on [collective action](https://en.wikipedia.org/wiki/Collective_action) and [publics](https://en.wikipedia.org/wiki/Public_sphere). I have some training on qualitative and quantitative methods including participatory action research and computational social science. In my research, I aim to take a comparative approach to understand the local-global dynamics implicated in datafication, community building, and technology. Some of my projects have been presented at conferences including the [International Communication Association (ICA)](https://www.icahdq.org/page/ICA2022) , [Data Power](https://datapowerconference.org/), and [Media and Publics](https://events.ruc.dk/publicsconference2022/).
+
+
+I completed my dual master of science and arts degree in Global Media and Communication at the [London School of Economics](https://www.lse.ac.uk/media-and-communications) and [University of Southern California](https://annenberg.usc.edu/). I earned my B.A. in [Communication at the University of California, Davis](https://communication.ucdavis.edu/) where I was a research assistant for the [Communication Research Lab: C^2](https://c2.ucdavis.edu/). During this time I also had the opportunity to study abroad at [Meiji Gakuin's](https://fis.meijigakuin.ac.jp/en/uc/) Global Studies program in Japan.          
+
+
+As a scholar by day and artist by night, I enjoy reading and writing just as much I enjoy breakin' (breakdancing) to unwind and live in the moment.
