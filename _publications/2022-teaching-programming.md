@@ -6,5 +6,5 @@ date: 2021-07-01
 venue: 'New Media & Society'
 paperurl: '/files/alvarado_rojas_book_review_democratizing_data.pdf"'
 link: 'https://doi.org/10.1177/14614448211031509'
-citation: 'Rojas, A. A. (2021). Book Review: Democratizing Our Data: A Manifesto. <i>New Media & Society, 23</i>(10), 3128–3130. https://doi.org/10.1177/14614448211031509'
+citation: 'Rojas, A. A. (2021). Book Review: Democratizing Our Data: A Manifesto. <i>New Media & Society, 23</i>(10), 3128–3130. doi:10.1177/14614448211031509'
 ---
