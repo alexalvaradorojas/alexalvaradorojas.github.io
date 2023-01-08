@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : Portrait_Alex_AR_fixed.jpg # Open Graph/Twitter default site image
+og_image                 : resized-portrait-bio.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
