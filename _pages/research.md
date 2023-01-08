@@ -17,8 +17,8 @@ header:
           <td style="border: none;" width="90%">
             <ul>
               <li>
-                <b>"The Social Function of Data Co-operatives: Reclaiming Community Through Data Sharing Practices"</b><br>
-                Alvarado Rojas, A. <a href="https://orcid.org/0000-0003-0360-6385"><br>
+                <b>The Social Function of Data Co-operatives: Reclaiming Community Through Data Sharing Practices</b><br>
+                <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a><br>
                 <br>
                 "Summary of project"<br>
                 <i>Where project has been presented</i>.<br>
@@ -39,8 +39,8 @@ header:
           <td style="border: none;" width="90%">
             <ul>
               <li>
-                <b>"Genres of Sociotechnical Participation: Identifying Organizational Forms of Data Activists on GitHub"</b><br>
-                Alvarado Rojas, A. <a href="https://orcid.org/0000-0003-0360-6385"><br>
+                <b>Genres of Sociotechnical Participation: Identifying Organizational Forms of Data Activists on GitHub</b><br>
+                <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a><br>
                 <br>
                 "Summary of project"<br>
                 <i>Where project has been presented</i>.<br>
@@ -61,8 +61,8 @@ header:
           <td style="border: none;" width="90%">
             <ul>
               <li>
-                <b>"Infrastructuring Data Publics: How Open-Source Computational Notebooks Mobilize Environmental Data Justice"</b><br>
-                Alvarado Rojas, A.<a href="https://orcid.org/0000-0003-0360-6385">, Vera, L.</a><a href="https://orcid.org/0000-0002-5390-6397">, Hansen, S.</a> <a href="https://www.linkedin.com/in/steve-hansen-b73ab51">& Norst, E.</a> <a href="https://scholar.google.com/citations?user=Bf4hh7oAAAAJ"><br>
+                <b>Infrastructuring Data Publics: How Open-Source Computational Notebooks Mobilize Environmental Data Justice</b><br>
+                <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a>,<a href="https://orcid.org/0000-0002-5390-6397"> Vera, L.</a>, <a href="https://www.linkedin.com/in/steve-hansen-b73ab51">Hansen, S.</a>, & <a href="https://scholar.google.com/citations?user=Bf4hh7oAAAAJ">Norst, E.</a><br>
                 <br>
                 "Summary of project"<br>
                 <i>Where project has been presented</i>.<br>
