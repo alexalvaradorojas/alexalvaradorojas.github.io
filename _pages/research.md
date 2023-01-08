@@ -29,7 +29,8 @@ header:
           </td>
         </tr>
       </tbody>
-    </table><br>
+    </table>
+    <br>
     <table style="border: none;" align="center" border="0px" width="100%">
       <tbody>
         <tr>
@@ -50,7 +51,8 @@ header:
           </td>
         </tr>
       </tbody>
-    </table><br>
+    </table>
+    <br>
     <table style="border: none;" align="center" border="0px" width="100%">
       <tbody>
         <tr>
@@ -71,6 +73,7 @@ header:
           </td>
         </tr>
       </tbody>
-    </table><br>
+    </table>
+    <br>
   </ol>
 </div>
