@@ -13,7 +13,7 @@ header:
       <tbody>
         <tr>
           <td style="border: none;" width="1%"></td>
-          <td style="border: none;" width="27%"><img alt="hypergraph" src="/research/data-cooperative-research-IMG.png" class="left" width="200" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></td>
+          <td style="border: none;" width="27%"><img alt="data-cooperative" src="images/research/data-cooperative-research-IMG.png" class="left" width="200" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></td>
           <td style="border: none;" width="90%">
             <ul>
               <li>
