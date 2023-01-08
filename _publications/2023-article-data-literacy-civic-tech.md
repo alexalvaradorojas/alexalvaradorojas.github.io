@@ -1,5 +1,5 @@
 ---
-title: "Article <i>under review</i>- Developing an Affordance-Practice Framework to 
+title: "Article (under review)- Developing an Affordance-Practice Framework to 
 Data Practices: How Civic Technologists Practice Data Literacy Cross-Regionally
 "
 collection: publications
