@@ -8,7 +8,7 @@ header:
 ---
 
 ### Works in progress ###
-
+<ol reversed>
 <table style="border: none;" align="center" border="0px" width="100%">
   <tbody>
     <tr>
@@ -72,3 +72,4 @@ header:
   </tbody>
 </table>
 <br>
+</ol>
