@@ -6,7 +6,7 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
-<div class="archive">
+
   <ol reversed="">
     <h3>Works in Progress</h3>
     <table style="border: none;" align="center" border="0px" width="100%">
@@ -76,4 +76,3 @@ header:
     </table>
     <br>
   </ol>
-</div>
