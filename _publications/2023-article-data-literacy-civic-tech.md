@@ -8,5 +8,5 @@ date: 2023-01-01
 venue: 'International Journal of Communication'
 citation: 'Alvarado Rojas, A. (<i>under review</i>). Developing an Affordance-Practice Framework to 
 Data Practices: How Civic Technologists Practice Data Literacy Cross-Regionally
-.
+.'
 ---
