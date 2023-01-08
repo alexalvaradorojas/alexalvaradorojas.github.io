@@ -21,8 +21,8 @@ header:
                 <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a><br>
                 <br>
                 "Summary of project"<br>
-                <i>Where project has been presented</i>.<br>
-                [</a> <a href="actual%20link">link to conference</a> ]&nbsp;&nbsp; [ <a href="link%20files">Slides</a> ]
+                Presented at <i>Platforming and Unplatforming: A Research Workshop</i>.<br>
+                [ <a href="https://socialdatasci.org/platforming/">Workshop</a> ]&nbsp;&nbsp;
               </li>
               <div id="help130"></div>
             </ul>
@@ -43,8 +43,6 @@ header:
                 <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a><br>
                 <br>
                 "Summary of project"<br>
-                <i>Where project has been presented</i>.<br>
-                [</a> <a href="actual%20link">link to conference</a> ]&nbsp;&nbsp; [ <a href="link%20files">Slides</a> ]
               </li>
               <div id="help130"></div>
             </ul>
@@ -65,8 +63,8 @@ header:
                 <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a>,<a href="https://orcid.org/0000-0002-5390-6397"> Vera, L.</a>, <a href="https://www.linkedin.com/in/steve-hansen-b73ab51">Hansen, S.</a>, & <a href="https://scholar.google.com/citations?user=Bf4hh7oAAAAJ">Norst, E.</a><br>
                 <br>
                 "Summary of project"<br>
-                <i>Where project has been presented</i>.<br>
-                [</a> <a href="actual%20link">link to conference</a> ]&nbsp;&nbsp; [ <a href="link%20files">Slides</a> ]
+                Presented at <i>Media and Publics 2022 Conference</i>.<br>
+                [ <a href="https://issuu.com/mediaandpublics/docs/book_of_abstracts_media_and_publics">Book of Abstracts</a> ]&nbsp;&nbsp;
               </li>
               <div id="help130"></div>
             </ul>
