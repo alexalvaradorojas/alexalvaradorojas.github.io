@@ -20,7 +20,7 @@ header:
                 <b>The Social Function of Data Co-operatives: Reclaiming Community Through Data Sharing Practices</b><br>
                 <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a><br>
                 <br>
-                "This project empirically investigates the data sharing practices an online community to make the case for a more co-operative notion of data sharing. I draw from the concept of Communities of Practice (Wenger) and Communal Data sharing (Ho and Chaung) to identify several dimensions of <b>data sharing communities".</b><br>
+                This project empirically investigates the data sharing practices an online community to make the case for a more co-operative notion of data sharing. I draw from the concept of <b>Communities of Practice</b> (Wenger) and <b>Communal Data sharing</b> (Ho and Chaung) to identify several dimensions of <b>data sharing communities.</b><br>
                 Presented at <i>Platforming and Unplatforming: A Research Workshop</i>.<br>
                 [ <a href="https://socialdatasci.org/platforming/">Workshop</a> ]&nbsp;&nbsp;
               </li>
@@ -42,7 +42,7 @@ header:
                 <b>Genres of Sociotechnical Participation: Identifying Organizational Forms of Data Activists on GitHub</b><br>
                 <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a><br>
                 <br>
-                "This project develops a classification system identify the associations between the types of data activist organizations and their communication practices on GitHub. I examine the sociotechnical aspects of communication artefacts and patterns on GitHub repostiroies maintained by data activists. Differences and similarities in communicaiton can inform how sociotechnical participation takes place on GitHub toward data activist ends".<br>
+                This project develops a classification system identify the associations between the types of <b>data activist organizations</b> and their communication practices on GitHub. I examine the <b>sociotechnical aspects of communication artefacts and patterns</b> on GitHub repostiroies maintained by data activists. Differences and similarities in communicaiton can inform how sociotechnical participation takes place on GitHub toward data activist ends.<br>
               </li>
               <div id="help130"></div>
             </ul>
@@ -62,7 +62,7 @@ header:
                 <b>Infrastructuring Data Publics: How Open-Source Computational Notebooks Mobilize Environmental Data Justice</b><br>
                 <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a>,<a href="https://orcid.org/0000-0002-5390-6397"> Vera, L.</a>, <a href="https://www.linkedin.com/in/steve-hansen-b73ab51">Hansen, S.</a>, & <a href="https://scholar.google.com/citations?user=Bf4hh7oAAAAJ">Norst, E.</a><br>
                 <br>
-                "This collaborative project with the <a href="https://www.environmentalenforcementwatch.org/">Environemntal Enforcement Watch (EEW)</a> describes how Jupyter computational notebooks mediate the process of infrastructuring for communities, political actors, and concerned citizens and scholars to makes sense of environmental data. Through a participatory approach for designing and application of the notebooks, issues of public concern can be identified and acted on by data publics".<br>
+                This collaborative project with the <a href="https://www.environmentalenforcementwatch.org/">Environemntal Enforcement Watch (EEW)</a> describes how <b>Jupyter computational notebooks</b> mediate the process of <b>infrastructuring</b> for communities, political actors, and concerned citizens and scholars to makes sense of environmental data. Through a participatory approach for designing and application of the notebooks, <b>issues of public concern</b> can be identified and acted on by data publics".<br>
                 Presented at <i>Media and Publics 2022 Conference</i>.<br>
                 [ <a href="https://issuu.com/mediaandpublics/docs/book_of_abstracts_media_and_publics">Book of Abstracts</a> ]&nbsp;&nbsp;
               </li>
