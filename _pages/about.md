@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio" ![image]{./images/pixel-cat-icon.png} 
+title: "Bio ![image]{./images/pixel-cat-icon.png}"  
 excerpt: "Bio"
 author_profile: true
 redirect_from: 
