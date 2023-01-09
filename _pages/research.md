@@ -13,14 +13,14 @@ header:
       <tbody>
         <tr>
           <td style="border: none;" width="1%"></td>
-          <td style="border: none;" width="27%"><img alt="data-cooperative" src="/images/research/data-cooperative-research-IMG.png" class="left" width="300" height="300" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></td>
+          <td style="border: none;" width="27%"><img alt="data-cooperative" src="/images/research/resized-data-cooperative-research-IMG.png" class="left" width="300" height="300" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></td>
           <td style="border: none;" width="90%">
             <ul>
               <li>
                 <b>The Social Function of Data Co-operatives: Reclaiming Community Through Data Sharing Practices</b><br>
                 <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a><br>
                 <br>
-                "Summary of project"<br>
+                "This project empirically investigates the data sharing practices an online community to make the case for a more co-operative notion of data sharing. I draw from the concept of Communities of Practice (Wenger) and Communal Data sharing (Ho and Chaung) to identify several dimensions of <b>data sharing communities".</b><br>
                 Presented at <i>Platforming and Unplatforming: A Research Workshop</i>.<br>
                 [ <a href="https://socialdatasci.org/platforming/">Workshop</a> ]&nbsp;&nbsp;
               </li>
@@ -42,7 +42,7 @@ header:
                 <b>Genres of Sociotechnical Participation: Identifying Organizational Forms of Data Activists on GitHub</b><br>
                 <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a><br>
                 <br>
-                "Summary of project"<br>
+                "This project develops a classification system identify the associations between the types of data activist organizations and their communication practices on GitHub. I examine the sociotechnical aspects of communication artefacts and patterns on GitHub repostiroies maintained by data activists. Differences and similarities in communicaiton can inform how sociotechnical participation takes place on GitHub toward data activist ends".<br>
               </li>
               <div id="help130"></div>
             </ul>
@@ -55,7 +55,7 @@ header:
       <tbody>
         <tr>
           <td style="border: none;" width="1%"></td>
-          <td style="border: none;" width="27%"><img alt="data-publics-infrastructuring" src="/images/research/data-publics-infrastructuring-research-IMG.jpg" class="left" width="200" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></td>
+          <td style="border: none;" width="27%"><img alt="data-publics-infrastructuring" src="/images/research/revised-data-publics-infrastructuring-research-IMG.jpg" class="left" width="200" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"></td>
           <td style="border: none;" width="90%">
             <ul>
               <li>
