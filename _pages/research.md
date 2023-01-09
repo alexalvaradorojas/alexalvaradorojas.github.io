@@ -62,7 +62,7 @@ header:
                 <b>Infrastructuring Data Publics: How Open-Source Computational Notebooks Mobilize Environmental Data Justice</b><br>
                 <a href="https://orcid.org/0000-0003-0360-6385">Alvarado Rojas, A.</a>,<a href="https://orcid.org/0000-0002-5390-6397"> Vera, L.</a>, <a href="https://www.linkedin.com/in/steve-hansen-b73ab51">Hansen, S.</a>, & <a href="https://scholar.google.com/citations?user=Bf4hh7oAAAAJ">Norst, E.</a><br>
                 <br>
-                "Summary of project"<br>
+                "This collaborative project with the <a href="https://www.environmentalenforcementwatch.org/">Environemntal Enforcement Watch (EEW)</a> describes how Jupyter computational notebooks mediate the process of infrastructuring for communities, political actors, and concerned citizens and scholars to makes sense of environmental data. Through a participatory approach for designing and application of the notebooks, issues of public concern can be identified and acted on by data publics".<br>
                 Presented at <i>Media and Publics 2022 Conference</i>.<br>
                 [ <a href="https://issuu.com/mediaandpublics/docs/book_of_abstracts_media_and_publics">Book of Abstracts</a> ]&nbsp;&nbsp;
               </li>
